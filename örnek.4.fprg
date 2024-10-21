@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="&#246;rnek.4"/>
+        <attribute name="authors" value="theEfe"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-10-22 12:59:45 &#214;&#214;"/>
+        <attribute name="created" value="dGhlRWZlO0RFU0tUT1AtUTZVNTBPVjsyMDI0LTEwLTIyOzEyOjU5OjEwIMOWw5Y7MzIwOA=="/>
+        <attribute name="edited" value="dGhlRWZlO0RFU0tUT1AtUTZVNTBPVjsyMDI0LTEwLTIyOzEyOjU5OjQ1IMOWw5Y7MTszMzI0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body/>
+    </function>
+</flowgorithm>
